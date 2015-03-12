@@ -1,0 +1,32 @@
+{
+  "name": "myo-car",
+  "version": "1.0.0",
+  "description": "Remote control a servo car with Myo gestures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frijol/myo-car.git"
+  },
+  "keywords": [
+    "servo",
+    "car",
+    "sumobot",
+    "myo",
+    "tessel",
+    "tessel2",
+    "websockets"
+  ],
+  "author": "Kelsey Breseman",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Frijol/myo-car/issues"
+  },
+  "homepage": "https://github.com/Frijol/myo-car",
+  "dependencies": {
+    "myo": "^1.4.0",
+    "servo-car": "^1.0.0"
+  }
+}
